@@ -1,9 +1,0 @@
-Create a GitHub-ready repository for Day 01: Clean Architecture REST API Skeleton.
-
-Requirements:
-- Java 17+ with Maven
-- Clean architecture boundaries
-- Spring Boot REST API
-- DTO mapping, validation, global error handling, OpenAPI
-- Unit + integration tests
-- Runnable locally with clear README commands
